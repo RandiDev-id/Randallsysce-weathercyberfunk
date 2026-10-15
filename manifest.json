@@ -1,0 +1,17 @@
+{
+  "name": "CyberWeather Randallsysce",
+  "short_name": "CyberWeather",
+  "description": "CyberWeather Dashboard Interactive App",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050814",
+  "theme_color": "#050814",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1163/1163661.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
